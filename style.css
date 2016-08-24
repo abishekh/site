@@ -53,6 +53,10 @@ a:hover {
 em{
 	font-style: italic;
 }
+
+ul{
+	list-style-type:none;
+}
 #container {
   margin: 0 auto;
   width: 960px;
