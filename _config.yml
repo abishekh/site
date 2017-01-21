@@ -12,3 +12,5 @@ github_username:  jekyll
 permalink: /404.html
 # Build settings
 markdown: kramdown
+source: .
+destination: ./_site
