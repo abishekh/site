@@ -2,7 +2,6 @@ language: ruby
 sudo: required
 rvm:
   - 2.1
-  --create
 install: gem install jekyll -v 2.5.3 
 script: jekyll build
 after_success: git push master
