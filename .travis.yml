@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 1.9.3
+  - 2.5
 install: gem install jekyll -v 2.5.3 
 script: jekyll build
 after_success: git push master
