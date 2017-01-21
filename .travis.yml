@@ -15,7 +15,7 @@ exclude: [vendor]
 # the `install` step will run `bundle install` by default.
 script: ./script/cibuild
 
-script: jekyll build && htmlproofer ./_site
+script: jekyll build --destination ./site && htmlproofer ./_site
 
 env:
   global:
