@@ -1,5 +1,4 @@
-# Personal Webpage [![Build Status](https://travis-ci.org/abishekh/abishekh.github.io.svg?branch=master)](https://travis-ci.org/abishekh/abishekh.github.io)
-
+# Personal Webpage [![Build Status](https://travis-ci.com/abishekh/abishekh.github.io.svg?token=qJJPgyrjgoNss7XyXMyt&branch=master)](https://travis-ci.com/abishekh/abishekh.github.io)
 
 
 This is my github hosted page made using Jekyll.
