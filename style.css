@@ -75,3 +75,18 @@ ul{
 #options li {
   margin-bottom: 10px;
 }
+
+.photo-gallery, .photo-gallery li {
+	list-style: none;
+	padding: 0;
+}
+
+.photo-gallery li {
+	display: inline-block;
+	width: 33%;
+}
+
+.photo-gallery li img {
+	image-orientation: from-image;
+	width: 100%;
+}

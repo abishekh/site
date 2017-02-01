@@ -1,12 +1,43 @@
+---
+layout: default
+images:
+  - image_path: /assets/CV.png
+    title: Computer Vision
+  - image_path: /assets/actlab.jpg
+    title: ACT Lab
+  - image_path: /assets/dontbeajerk.jpg
+    title: Don't be a jerk
+  - image_path: /assets/flight.jpg
+    title: Flight
+  - image_path: /assets/vicon.jpg
+    title: Vicon        
+  - image_path: /assets/layup.jpg
+    title: Layup
+  - image_path: /assets/build.jpg
+    title: Build
+  - image_path: /assets/foxconn.jpg
+    title: Foxconn
+  - image_path: /assets/automation.jpg
+    title: Test Automation
+  - image_path: /assets/rescue.jpg
+    title: Rescue
+  - image_path: /assets/zuma.jpg
+    title: Zuma
+  - image_path: /assets/fishing.jpg
+    title: Fishing
+  - image_path: /assets/thermo.jpg
+    title: Thermocouple
+  - image_path: /assets/thermo2.jpg
+    title: Thermocouple Calibration
+  - image_path: /assets/yosemite.jpg
+    title: Yosemite
+---
+
 <h2>Photos:</h2>
 
 
-
-Waiting for Google Photos to have an API. :(
-
-
-
-
-<br>
-<br>
-
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}" title="{{image.title}}"/></li>
+  {% endfor %}
+</ul>
