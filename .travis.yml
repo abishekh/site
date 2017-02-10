@@ -9,7 +9,7 @@ install:
 
 before_script:
  - chmod +x ./script/cibuild # or do this locally and commit
- - jekyll build --source . --destination ./site
+ - jekyll build --source . --destination ./_site
 
 exclude: [vendor]
 
