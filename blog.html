@@ -4,18 +4,16 @@ title: My Blog
 ---
 
 <h2 class="page-heading">Blog:</h2>
-
 <div class="home">
-<pre>
 <ul class="post-list">
 {% for post in site.posts %}
 <li>
+<pre>
 <h3>
 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> - <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></h3>
 {{ post.excerpt }}
+</pre>
 </li>
 {% endfor %}
 </ul>
-
-</pre>
 </div>
