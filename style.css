@@ -65,9 +65,6 @@ ul{
 	list-style-type:none;
 }
 
-li{
-	background-color: #F6F6F6;
-}
 
 #container {
   margin: 0 auto;
@@ -94,4 +91,12 @@ li{
 .photo-gallery li img {
 	image-orientation: from-image;
 	width: 100%;
+}
+
+.video li{
+	background-color: #FFFFFF;
+}
+
+.blog-posts li{
+	background-color: #F6F6F6;
 }
