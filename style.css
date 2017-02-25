@@ -64,9 +64,14 @@ em{
 ul{
 	list-style-type:none;
 }
+
+li{
+	background-color: #F6F6F6;
+}
+
 #container {
   margin: 0 auto;
-  width: 960px;
+  width:65%;
 }
 #options {
   list-style: none;
