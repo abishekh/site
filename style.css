@@ -97,6 +97,30 @@ ul{
 	background-color: #FFFFFF;
 }
 
-.blog-posts li{
+.blog-posts li {
 	background-color: #F6F6F6;
+	width:90%;
+	
+}
+ 
+.blog-posts h3{
+	font-family: 'LibreBodoniItalic',serif;
+	padding: 5px;
+}
+
+.blog-posts a{
+	color: #C30C0C;
+}
+
+.blog-posts p{
+	margin-top: 5px;
+	margin-bottom: 2px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.blog-posts span{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
