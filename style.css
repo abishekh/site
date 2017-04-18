@@ -37,6 +37,7 @@ h3{
 }
 
 h4{
+	color: ;
 	font-weight: 200;
 	font-family: 'LibreBodoniItalic',serif;
 }
@@ -107,12 +108,24 @@ ul{
 	width:90%;
 	
 }
- 
-.blog-posts h3{
-	font-family: 'LibreBodoniItalic',serif;
-	padding: 5px;
+.blog-posts div{
+	background-color: #F6F6F6;
+	width:90%;
 }
 
+.blog-posts h3{
+	font-family: 'LibreBodoniItalic',serif;
+	color: #C30C0C;
+	padding: 5px;
+}
+.blog-posts body{
+
+}
+.blog-posts h1{
+	font-family: 'LibreBodoniItalic',serif;
+	color: #C30C0C;
+	padding: 5px;
+}
 .blog-posts a{
 	color: #C30C0C;
 }
