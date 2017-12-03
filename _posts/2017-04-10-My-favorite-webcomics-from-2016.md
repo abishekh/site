@@ -3,6 +3,7 @@ layout: post
 title: "My favorite web comics from 2016"
 date:   2017-04-10 12:06:00
 categories: comics, humor
+comments: true
 ---
 
 If you know me, you know how much I love humor and comics. So I've decided to make a list and share some of the fun comics that I've followed this past year. You can follow them yourself and they will return the favor with laughs and pick you up when you need it - Unless you don't have a sense of humor, then you can't be helped - please move along. :
