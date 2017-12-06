@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bash Script that get rids of squiglies"
+title: "Bash Script that gets rid of squiglies"
 date:   2017-12-2 12:06:00
 categories: script, bash, linux
 comments: true
