@@ -19,7 +19,7 @@ destination: ./_site
 
 
 #Plugins
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
