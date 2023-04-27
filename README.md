@@ -6,3 +6,8 @@ This is my github hosted page made using Jekyll.
 This was constructed using https://github.com/cmPolis/Pagify
 
 You can check it out at - http://abishekh.github.io
+
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lgzayw41nr2zulf9npol" alt="trackgit-views" />
+</a>
